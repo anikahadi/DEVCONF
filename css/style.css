@@ -2,8 +2,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* font-family: "Arimo", sans-serif;
-    font-family: "Inter", sans-serif; */
 }
 
 /* common style */
@@ -431,22 +429,17 @@ footer{
     text-align: left;
 }
 
-.social h6{
-    font-size: 20px;
-    font-weight: 500;
-    color: #FFFFFF;
-}
-
 .footer-icons{
     margin: 10px 12px 50px 8px;
 }
 
 .footer-icons i{
     color: #FFFFFF;
+    font-size: 35px;
 }
 
 .fa-square-linkedin{
-    margin: 0px 16px;
+    margin: 0px 15px;
 }
 
 .footer-msg{
